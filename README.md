@@ -10,9 +10,12 @@
   <li> Analyze and translate the sentiment analysis results into actionable strategic initiatives.</li>
 </ol>
 
-<h2> Model Performance Samples</h2>
-<p> AUC of predictive model from all businesses</p>
-<img src="auc-performance-no-demographics.png">
+<h2> Analysis Results & Visualization </h2>
+<p> Distribution of Sentiment Class </p>
+<img src="sentiment_distribution.png">
 
-<p> AUC of predictive model from businesses with disclosed demographic information</p>
-<img src="auc-performance-demographics">
+<p> Distribution of Components' Contribution to Overall Sentiment </p>
+<img src="scores_distribution.png">
+
+<p> Word Cloud of Most Frequently Mentioned Words in each Sentiment Class </p>
+<img src="word_cloud.png">
