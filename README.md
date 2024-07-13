@@ -1,6 +1,6 @@
 <h1 align="center">Edible Arrangements - Sentiment Analysis</h1>
 <h2>Client Outline</h2>
-<p>Edible Arrangements is a company specializing in fresh fruit arrangements, fruit bouquets, and gourmet chocolate-dipped fruit. They offer a unique and healthy alternative to traditional floral arrangements, perfect for gifting on various occasions. This project aims to identify opportunities to grow Edible Arrangements </p>
+<p>Edible Arrangements specializes in creating fresh fruit arrangements, fruit bouquets, and gourmet chocolate-dipped fruit, offering a unique and healthy alternative to traditional floral gifts. This project aims to uncover growth opportunities and strategic initiatives to enhance Edible Arrangements' competitive edge in the modern market. </p>
 
 <h2>Project Outline</h2>
 <p>This project has 3 main objectives:</p>
