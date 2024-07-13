@@ -18,4 +18,6 @@
 <img src="scores_distribution.png">
 
 <p> Word Cloud of Most Frequently Mentioned Words in each Sentiment Class </p>
-<img src="word_cloud.png">
+<img src="word_cloud_positive.png">
+<img src="word_cloud_negative.png">
+
